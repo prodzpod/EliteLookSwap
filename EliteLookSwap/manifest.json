@@ -1,0 +1,11 @@
+{
+	"name": "EliteLookSwap",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/prodzpod/EliteLookSwap",
+	"description": "Configurable elite ramp/IDRS overrides.",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2117",
+		"RiskofThunder-HookGenPatcher-1.2.5",
+		"RiskofThunder-R2API_Elites-1.0.4"
+	]
+}
